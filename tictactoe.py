@@ -21,7 +21,7 @@ Paraugs:
 [ ][X][0]
 [ ][ ][X]
 """
-def ziimee_laukumu():
+def ziimeeLaukumu():
     pass
 
 
@@ -36,7 +36,7 @@ def gajiens(speletajs):
 
     # ... sastādi gājiena izdarīšanas algoritmu ...
 
-    ziimee_laukumu()
+    ziimeeLaukumu()
 
     iznakums = parbaudaUzvaru()
     if iznakums != False:
