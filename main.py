@@ -13,6 +13,8 @@ laukums = [
 
 """
 TODO: Drukā grafisku spēles laukumu (kā paraugā) no figūrām, kas glabājas sarakstā.
+Ja elements ir skaitlis, tad to izlaiž. Citādi izdrukā X vai 0.
+Katru simbolu pozicionē kvadrātiekavās.
 
 Paraugs:
 [X][ ][0]
