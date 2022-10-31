@@ -3,7 +3,7 @@ Tavs uzdevums ir atvērt doto failu *tictactoe.py* un tajā iedziļināties, lai
 Koda sākumā ir pievienota random bibliotēka, kas tiek izmantota spēles algoritmā.<br>
 Ir nodefinēts arī saraksts ar nosaukumu *laukums*, kurā vērtības mainīsies spēles gaitā.<br>
 
-Kopā ir 5 funkcijas, no kurām 2 ir jau uzrakstītas:
+Spēles algoritms ir sadalīts 5 loģiskās funkcijās, no kurām 2 ir jau uzrakstītas:
 * jaunaSpele() - nodzēš esošās saraksta vērtības un sanumurē ar 1 - 9 jaunai spēlei
 * spelesBeigas() - jautā spēlētājam, vai turpinās spēli. Ja turpinās, tad izsauc jaunaSpele()
 
