@@ -13,7 +13,7 @@ Funkcija *ziiimeeLaukumu()* paredzēta grafiska spēles laukuma atveidošanai ko
 
 Funkcija *gajiens()* jāpapildina ar gājiena izdarīšanas algoritmu, kur spēlētājam jāievada skaitlis 1 - 9 un sarakstā attiecīgais elements tiek aizstāts ar X vai 0.<br>
 
-Funkcijā *parbaudaUzvaru()* jāsastāda algoritms, kurš pārbauda, vai laukumā jau neeksistē kāda uzvarošana kombinācija, piemēram, 1-5-9 vai 4-5-6 utml. Šeit iespējami dažādi realizācijas varianti - gan ar ciklu, gan bez tā.
+Funkcijā *parbaudaUzvaru()* jāsastāda algoritms, kurš pārbauda, vai laukumā jau neeksistē kāda uzvaroša kombinācija, piemēram, 1-5-9 vai 4-5-6 utml. Šeit iespējami dažādi realizācijas varianti - gan ar ciklu, gan bez tā.
 Atgriežāmās vērtības ir dotas komentārā.
 
 Ja rodas grūtības, ieskaties [šeit](https://prog.kmu.lv/programmesana/python/2d_saraksti/) un aplūko piemēru par kuģu spēli!
