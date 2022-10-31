@@ -28,6 +28,7 @@ def ziimeeLaukumu():
 """
 TODO: Aicina spēlētāju izdarīt gājienu, ievadot skaitli intervālā 1 - 9.
 TODO: Atkarībā no ievadītā skaitļa, ieraksta X vai 0 attiecīgajā pozīcijā sarakstā.
+Funkcijas parametrs speletajs satur simbolu X vai 0 atkarībā, kurš no spēlētājiem izdara gājienu.
 Izdrukā pašreizējo spēles laukumu un pārbauda, vai nav fiksēta uzvara/neizšķirts.
 Ja spēle nav galā, tā turpinās ar nākamo gājienu.
 """
