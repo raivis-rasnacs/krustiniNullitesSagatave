@@ -7,6 +7,8 @@ Kopā ir 5 funkcijas, no kurām 2 ir jau uzrakstītas:
 * jaunaSpele() - nodzēš esošās saraksta vērtības un sanumurē ar 1 - 9 jaunai spēlei
 * spelesBeigas() - jautā spēlētājam, vai turpinās spēli. Ja turpinās, tad izsauc jaunaSpele()
 
+Tavs uzdevums būs pabeigt pārējās 3 funkcijas.
+
 Funkcija *ziiimeeLaukumu()* paredzēta grafiska spēles laukuma atveidošanai konsolē (terminālī). Tev jāizveido cikls, kas caurskata doto sarakstu un izdrukā to konsolē atbilstoši nosacījumiem komentārā. Tev noderēs parametrs *end=* funkcijai print().
 
 Funkcija *gajiens()* jāpapildina ar gājiena izdarīšanas algoritmu, kur spēlētājam jāievada skaitlis 1 - 9 un sarakstā attiecīgais elements tiek aizstāts ar X vai 0.<br>
